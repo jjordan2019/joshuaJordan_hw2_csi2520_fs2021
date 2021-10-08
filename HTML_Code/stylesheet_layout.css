@@ -1,0 +1,57 @@
+
+body{
+
+background-color: aquamarine;
+
+}
+nav{
+    /*float: right;*/
+    background-color: gray;
+}
+span{
+
+    background-color: green;
+    /*display: block;*/
+    /*width: 50%;*/
+    /*float: right;*/
+
+
+}
+div{
+
+background-color: plum;
+width: 20%;
+display: inline-block;
+float: left;
+overflow: auto;
+
+}
+
+h1,h2{
+
+text-align: center;
+ background-color: indigo;
+ clear: both;
+
+
+}
+img{
+    width: 130px;
+}
+.logo{
+    float: left;
+    border-style: solid;
+    margin: 2%;
+    padding: 1%;
+}
+.menu{
+    border-style: solid;
+    border-radius: 2%;
+    margin: 2%;
+    padding: 1%;
+}
+.menu_list{
+    display: inline-block;
+    float: right;
+}
+   
